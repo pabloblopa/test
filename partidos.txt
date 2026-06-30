@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tycsports" tvg-name="TYC" tvg-logo="" group-title="",Fra - Sue
+https://mivra.vivolatamz.org/tycsports/tracks-v1a1/mono.m3u8?ip=45.176.108.13&token=3ee97c52499ee7b922c29e4182ec9b6ad9b81bec-9a-1782899158-1782845158
